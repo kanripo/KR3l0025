@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 洛陽搢紳舊聞記
-#+DATE: 2020-03-31 11:31:46.412479
+#+DATE: 2020-03-31 11:31:46.475123
 #+PROPERTY: ID KR3l0025
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 4
 <pb:KR3l0025_WYG_004-1a>¶
 　　欽定四庫全書¶
@@ -108,7 +108,7 @@
 　　宋太師彦筠奉佛¶
 ¶
 　　宋彦筠正史有傳起於行伍善用鎗初𨽻滑州莊宗有天¶
-下&KR0118;禁軍指揮使從康延孝為伐蜀先鋒以戰功授¶
+下遷禁軍指揮使從康延孝為伐蜀先鋒以戰功授¶
 渝州刺史彦筠多力勇徤走及奔馬為少校時欲立竒¶
 <pb:KR3l0025_WYG_004-6b>¶
 功每見陣敵於兠牟上闊為雙髻故軍中目之為宋芒¶
